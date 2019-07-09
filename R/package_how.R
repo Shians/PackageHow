@@ -5,5 +5,5 @@
 #' @return None
 #' @export
 package_how <- function() {
-    browseURL("https://medium.com")
+    browseURL("https://medium.com/@shiansu/how-to-create-and-distribute-an-r-package-a296217435dc")
 }
